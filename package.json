@@ -1,6 +1,6 @@
 {
   "name": "redux-guards",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Type Guards for Redux",
   "main": "umd/redux-guards.js",
   "module": "lib/index.js",
