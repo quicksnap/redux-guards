@@ -1,3 +1,4 @@
+export * from './redux-pack';
 import { Action } from 'redux';
 // This also allows us to dispatch an action without a `type` defined in type
 // signature. Useful since our typings lack `type` until TS supports variadic types

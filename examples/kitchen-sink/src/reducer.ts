@@ -1,7 +1,6 @@
 import { combineReducers, Reducer } from 'redux';
 import { Action } from 'redux';
-import { isAction } from 'redux-guards';
-import { isPackAction } from 'redux-guards/redux-pack';
+import { isAction, isPackAction } from 'redux-guards';
 import { addCount, delayedCount } from 'src/actions';
 import { handle } from 'redux-pack';
 

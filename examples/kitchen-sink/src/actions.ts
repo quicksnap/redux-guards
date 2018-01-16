@@ -1,5 +1,4 @@
-import { makeAction } from 'redux-guards';
-import { makePackAction } from 'redux-guards/redux-pack';
+import { makeAction, makePackAction } from 'redux-guards';
 
 // A normal action that conforms to the FSA shape (payload, error, meta...)
 export const addCount = makeAction('ADD_COUNT')((amount: number) => ({
