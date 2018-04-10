@@ -2,7 +2,7 @@
 
 Redux Guards are a pattern of leveraging TypeScript's [type guards](https://www.typescriptlang.org/docs/handbook/advanced-types.html) for a concise, fully-typed Redux application.
 
-See the [introductory blog post](http://where-will-it-live) for a detailed look at this solution.
+See the [introductory blog post](https://medium.com/@danschuman/redux-guards-for-typescript-1b2dc2ed4790) for a detailed look at this solution.
 
 ## Try It Out
 
