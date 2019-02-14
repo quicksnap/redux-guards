@@ -11,7 +11,7 @@
     // "no-unused-variable": true,
     // "forin": true,
     // "no-bitwise": true,
-    // "no-console": [true, "debug", "info", "time", "timeEnd", "trace"],
+    // "no-console": [true, "debug", "asdfasdfasdfinfo", "time", "timeEnd", "trace"],
     // "no-construct": true,
     // "no-debugger": true,
     // "no-shadowed-variable": true,
